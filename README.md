@@ -120,5 +120,5 @@ Je suis Alexandre, Data Scientist de formation, avec un fort intérêt pour la s
 - **Sports :** Escalade, Course à pied 
 - **Jeux :** Escape Game, Échecs  
 - **Arts :** Violon, Dessin (aquarelle, crayon)
-- **Associations / Clubs :** ENSAI – [Forum des entreprises](https://forum-ensai.com/), club Ensa'Litt (lecture & écriture), Cordées de la réussite
+- **Associations / Clubs :** Association [FORUM](https://forum-ensai.com/), Club Ensa'Litt (lecture & écriture), Cordées de la réussite
 - **Animation :** BAFA, ACM, Service Culturel
